@@ -1,8 +1,8 @@
 /**
-*	Ibrahim Yusuf Olaolu A.K.A Dark Saint CV & Resume
-*	Author: Ibrahim Yusuf Olaolu
+*	Ibrahim Yusuf Ola [ds] CV & Resume
+*	Author: Ibrahim Yusuf Ola
 *	Author URL: darksaint.me
-*	Copyright © Portfolio by Ibrahim Yusuf Olaolu. All Rights Reserved.
+*	Copyright © Portfolio by Ibrahim Yusuf Ola. All Rights Reserved.
 **/
 
 ( function( $ ) {
